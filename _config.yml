@@ -1,0 +1,14 @@
+layout_spectrum: 0.05464379861950874
+typography_spectrum: 0.257179832784459
+color:
+  brandStrength: 0.8195450431667268
+  lightness: 0.2742094856221229
+  saturation: 0.05939420801587403
+  rhythmicContrast: 0.8267871499992907
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+name: Average Guy
